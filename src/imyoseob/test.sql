@@ -1,0 +1,36 @@
+-- 20220718
+use mysql;
+
+show databases;
+-- imyoseob
+show tables;
+-- TEST
+
+-- 테이블 생성
+CREATE TABLE TEST(
+ID VARCHAR(30),  -- 테스트아이디
+NAME VARCHAR(30), -- 테스트이름 
+INSERTDATE DATE,  -- 입력일
+UPDATEDATE DATE, -- 수정일 
+DELETEYN VARCHAR(1) -- 삭제여부
+);
+
+-- 테이블 생성 되었는지 확인하기
+SELECT*FROM imyoseob.TEST;
+
+-- INSERT
+INSERT INTO TEST(ID, NAME, INSERTDATE, UPDATEDATE, DELETEYN)
+VALUES ('TEST_ID_01', 'TEST_NAME_02', sysdate(), sysdate(), 'Y');
+
+-- SELECT ALL
+SELECT ID, NAME, INSERTDATE, UPDATEDATE, DELETEYN
+FROM imyoseob.TEST
+ORDER BY ID ASC;
+
+-- SELECT
+SELECT ID, NAME, INSERTDATE, UPDATEDATE, DELETEYN
+FROM imyoseob.TEST
+WHERE ID='TEST_ID_01'
+ORDER BY ID ASC;
+
+COMMIT;
