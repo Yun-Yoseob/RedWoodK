@@ -54,7 +54,7 @@ jdbc를 통해, Eclipse와 Mysql을 연동한 뒤, java.sql 패키지에 있는 
 eclipse에서 쿼리문을 입력하는 추상클래스를 만든 뒤, testSelectAll(), testSelect(), testInsert() 함수를 만들어 쿼리문을 작성한 파일입니다.
 ```
 
-### 6. [day5_jdbc_coding/TESTVO.java](https://github.com/Yun-Yoseob/RedWoodK/blob/main/src/day5_jdbc_coding/TESTVO.java)
+### 6. [day5_jdbc_coding/TESTVO.java](https://github.com/Yun-Yoseob/RedWoodK/blob/main/day5_jdbc_coding/TESTVO.java)
 
 ```
 eclipse에서 변수를 저장하고, setter/getter 메서드를 하는 VO클래스입니다.
@@ -62,7 +62,7 @@ eclipse에서 변수를 저장하고, setter/getter 메서드를 하는 VO클래
 TEST 테이블에 있는 칼럼 5개와 기본 생성자, 매개변수가 있는 생성자, setter method, getter method가 있습니다.
 ```
 
-### 7. [day5_jdbc_coding/TESTScr.java](https://github.com/Yun-Yoseob/RedWoodK/blob/main/src/day5_jdbc_coding/TESTScr.java)
+### 7. [day5_jdbc_coding/TESTScr.java](https://github.com/Yun-Yoseob/RedWoodK/blob/main/day5_jdbc_coding/TESTScr.java)
 
 ```
 main 함수가 있는 클래스로, java.util 패키지에 있는 Scanner 클래스를 통해, 사용자가 값을 직접 입력한 뒤, DB테이블에 값을 입력하고, 전체 조회 및 조건 조회를 할 수 있는 소스코드가 담긴 클래스입니다.
@@ -73,9 +73,3 @@ main 함수가 있는 클래스로, java.util 패키지에 있는 Scanner 클래
 <hr>
 
 사용 Lib 설명 및 자세한 설명은 각 디렉토리에 README.md에 있습니다.
-
-**✔ 각 디렉토리에 README.md 보기**
-
-### 1. [day5_jdbc_coding](https://github.com/Yun-Yoseob/RedWoodK/tree/main/src/day5_jdbc_coding)
-
-### 2. [imyoseob](https://github.com/Yun-Yoseob/RedWoodK/tree/main/src/imyoseob)
