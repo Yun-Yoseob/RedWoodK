@@ -131,10 +131,10 @@ public class TESTScr {
 					arr.add(_tvo);
 				} 
 			}else{
-				System.out.println("전체 조회 결과가 없습니다 >>> : "+rsRs);
+				System.out.println("조건 조회 결과가 없습니다 >>> : "+rsRs);
 			}
 		}catch(Exception e){
-			System.out.println("전체조회중 에러가 >>> : "+e.getMessage());
+			System.out.println("조건 조회중 에러가 >>> : "+e.getMessage());
 		}
 		
 		return arr;
@@ -229,7 +229,7 @@ public class TESTScr {
 				System.exit(0);
 			}
 		}catch(Exception e){
-			System.out.println("SELECT ALL 도중 실패 >>> : "+e.getMessage());
+			System.out.println(" TEST 테이블에서 데이터 조회 및 입력하기 도중 실패 >>> : "+e.getMessage());
 		}		
 	} // end of main method
 } // end of TESTScr class
