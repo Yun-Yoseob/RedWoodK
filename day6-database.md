@@ -275,7 +275,7 @@ Subquery는 다른 Select 문의 절에 포함되는 Select문입니다.
 --      테이블에 있는 전체 데이터를 사용하지 않고 
 --      그 조건에 필요한 컬럼만 먼저 추출해서 사용하기 위해서 
 --      파일의 크기를 줄이기 위해서 사용하는 것 
---      INLINE VIEW SUBQUERY 는 INNSER JOIN 효과가 있다. 
+--      INLINE VIEW SUBQUERY 는 INNER JOIN 효과가 있다. 
 --WHERE : 웨어 절 
 --    SELECT * FROM DUAL; : 서브쿼리 : 웨어 절에 SELECT 구문을 사용하는 것
 
@@ -385,7 +385,7 @@ WHERE A.DEPTNO=B.DEPTNO(+);
 
 집합 연산은 합집합, 교집합, 차집합이 있다.
 
-**✔ SQL 활용 예제 7 : 차집합**
+**✔ SQL 활용 예제 7 : 집합**
 
 ```sql
 -- 집합 연산자 
