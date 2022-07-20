@@ -7,3 +7,5 @@
 |2022.07.14|day3|[git명령어:보고서](https://github.com/Yun-Yoseob/RedWoodK/blob/main/day3-git%EB%AA%85%EB%A0%B9%EC%96%B4.md)|O|
 |2022.07.15|day4|[java문법:보고서](https://github.com/Yun-Yoseob/RedWoodK/blob/main/day4-java%EB%AC%B8%EB%B2%95.md)|O|
 |2022.07.18|day5|[jdbc:코딩](https://github.com/Yun-Yoseob/RedWoodK/tree/main/day5_jdbc_coding)|O|
+|2022.07.20|day6|[database:보고서](https://github.com/Yun-Yoseob/RedWoodK/blob/main/day6-database.md)|O|
+
