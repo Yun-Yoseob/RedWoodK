@@ -36,14 +36,14 @@
 
 <img src="https://user-images.githubusercontent.com/109064073/181202845-37a45efe-4020-4634-ae74-8d54c6fd81d1.png">
 
-### 단위테스트 세부일정 예시
+### 단위테스트 세부일정 산출물 예시
 
 <img src="https://user-images.githubusercontent.com/109064073/181204883-73ccdc35-fcc3-4ffa-9146-e56cb67f3460.png">
 
-### SW 단위/통합 결과서
+### SW 단위/통합 결과서 산출물 예시
 
 <img src="https://user-images.githubusercontent.com/109064073/181204203-72957159-53f9-4fdf-9564-2f1fe05bb6b7.png">
 
-### 동료검토
+### 동료검토 산출물 예시
 
 <img src="https://user-images.githubusercontent.com/109064073/181205115-2203530c-d28a-4b4f-9e4a-7f35fea7a9c6.png">
