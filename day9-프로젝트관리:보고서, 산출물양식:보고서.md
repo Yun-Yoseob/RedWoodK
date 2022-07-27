@@ -1,6 +1,6 @@
 ## day9-프로젝트관리 : 보고서, 산출물양식 : 보고서
 
-작성일 2022.07.21
+작성일 2022.07.27
 
 작성자 윤요섭 인턴
 
@@ -691,4 +691,4 @@ PMO(Project/Program/Portfolio Management Office)란
 - 산출물의 품질 검토
 - 발주자의 인수시험 및 검사 등 지원
 
-<img src="https://user-images.githubusercontent.com/109064073/181144755-1517fa8d-b6a2-488b-b0bd-884bbb1fa036.png">
+<img src="https://user-images.githubusercontent.com/109064073/181144755-1517fa8d-b6a2-488b-b0bd-884bbb1fa036.png"> 
